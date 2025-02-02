@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikts27.github.io/ics22089-crowdfunding-app/static/css/main.d138fb8e.css",
-    "main.js": "/nikts27.github.io/ics22089-crowdfunding-app/static/js/main.b313e71d.js",
-    "static/js/488.27b7193a.chunk.js": "/nikts27.github.io/ics22089-crowdfunding-app/static/js/488.27b7193a.chunk.js",
-    "index.html": "/nikts27.github.io/ics22089-crowdfunding-app/index.html",
-    "main.d138fb8e.css.map": "/nikts27.github.io/ics22089-crowdfunding-app/static/css/main.d138fb8e.css.map",
-    "main.b313e71d.js.map": "/nikts27.github.io/ics22089-crowdfunding-app/static/js/main.b313e71d.js.map",
-    "488.27b7193a.chunk.js.map": "/nikts27.github.io/ics22089-crowdfunding-app/static/js/488.27b7193a.chunk.js.map"
+    "main.css": "/ics22089-crowdfunding-app/static/css/main.d138fb8e.css",
+    "main.js": "/ics22089-crowdfunding-app/static/js/main.3f183709.js",
+    "static/js/488.27b7193a.chunk.js": "/ics22089-crowdfunding-app/static/js/488.27b7193a.chunk.js",
+    "index.html": "/ics22089-crowdfunding-app/index.html",
+    "main.d138fb8e.css.map": "/ics22089-crowdfunding-app/static/css/main.d138fb8e.css.map",
+    "main.3f183709.js.map": "/ics22089-crowdfunding-app/static/js/main.3f183709.js.map",
+    "488.27b7193a.chunk.js.map": "/ics22089-crowdfunding-app/static/js/488.27b7193a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d138fb8e.css",
-    "static/js/main.b313e71d.js"
+    "static/js/main.3f183709.js"
   ]
 }

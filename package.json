@@ -1,7 +1,7 @@
 {
   "name": "ics22089-crowdfunding-app",
   "version": "0.1.0",
-  "homepage": "https:/nikts27.github.io/ics22089-crowdfunding-app",
+  "homepage": "https://nikts27.github.io/ics22089-crowdfunding-app",
   "private": true,
   "dependencies": {
     "blockchain-crowdfunding": "file:",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
