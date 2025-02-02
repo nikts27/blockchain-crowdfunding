@@ -1,12 +1,13 @@
 {
-  "name": "ics22089-Crowdfunding-App",
+  "name": "ics22089-crowdfunding-app",
   "version": "0.1.0",
-  "homepage": "https:/nikts27.github.io/ics22089-Crowdfunding-App",
+  "homepage": "https:/nikts27.github.io/ics22089-crowdfunding-app",
   "private": true,
   "dependencies": {
     "blockchain-crowdfunding": "file:",
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
+    "ics22089-crowdfunding-app": "file:",
     "ics22089-Crowdfunding-App": "file:",
     "prop-types": "^15.8.1",
     "react": "^19.0.0",

@@ -1,4 +1,5 @@
 // App.js - Το κύριο component της εφαρμογής
+// App.js - Το κύριο component της εφαρμογής
 import React, { Component } from 'react';
 // Εισαγωγή του Bootstrap CSS για στυλιστική μορφοποίηση
 import 'bootstrap/dist/css/bootstrap.css';
